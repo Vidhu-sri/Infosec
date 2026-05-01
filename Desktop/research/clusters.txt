@@ -1,0 +1,63 @@
+'training/fine-tuning': [3, 10, 17, 19, 20, 25]:
+
+
+take a pre trained model and adapt it to a specific task
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'security': [7, 22, 24, 27]:
+
+llm jailbreaking and other security considerations
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+'knowledge': [4, 13, 16, 26, 29]:
+
+adapting llms to dynamic information and tracing the sources of knowledge within the model for transparency.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+'Multimodal': [2, 5, 14, 15]:
+
+enhancing llms to handle video generation
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'reasoning': [1, 6, 12, 18, 28],
+
+llm performance in common sense reasoning tasks
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'text generation behaviour': [8, 23]
+observations made on llm tendencies
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+'RAG': [9, 11, 21]
+
+
+
+retrieval augmented generation to add domain specific knowledge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reasoning wrt nlp - what does that mean?
+why is it so important?
+what is the state of the art in reasoning?
+what are the open problems?
+
+
